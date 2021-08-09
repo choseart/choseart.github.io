@@ -3,6 +3,12 @@ site: Chose Art
 url: https://choseart.us/
 baseurl: 
 
+title: Chose Art
+tagline: Beautiful acrylic paint pouring
+description: Beautiful acrylic paint pouring
+logo: images/favicon.png
+author: Cindy Hose
+
 collections:
   pages:
     output: true
@@ -51,6 +57,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 paginate: 6
 paginate_path: "/blog/page:num/"
