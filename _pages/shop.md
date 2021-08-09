@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Shop
 subtitle: 
 description: 
 featured_image: /images/wall/wall-landscape.jpeg

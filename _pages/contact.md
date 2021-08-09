@@ -1,6 +1,6 @@
 ---
 title: Contact
-subtitle: Send us a message and we will get back to you as soon as we can.
+subtitle: "Send me a message and I will get back to you as soon as we can. If I don't respond right away, I'm probably pouring!"
 ---
 
 {% include contact-form.html %}
