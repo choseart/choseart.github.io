@@ -15,7 +15,7 @@ Cindy's passion for painting can be traced back to her childhood where she spent
 
 <br>
 <div style="text-align:center">
-    <video controls loop autoplay width="500">
+    <video controls loop autoplay style="max-width:500px;width:100%">
             <source src="/images/about/about.mp4" type="video/webm">
 
             Sorry, your browser doesn't support embedded videos.
