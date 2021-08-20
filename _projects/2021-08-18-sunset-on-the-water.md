@@ -7,7 +7,7 @@ featured_image: '/images/sunset-on-the-water/sunset-on-the-water7-portrait-short
 
 ![](/images/sunset-on-the-water/sunset-on-the-water6.jpeg)
 
-> “Sunset on the water, ahh the reflection can leave you blind…..If I could be anywhere, I’d be on the water, with the wind in my hair…" - <a href="https://mdc.mo.gov/blogs/discover-nature-notes/water">Rogers and Neinhaus Band</a>
+> “Sunset on the water, ahh the reflection can leave you blind…..If I could be anywhere, I’d be on the water, with the wind in my hair…" - <a href="https://mdc.mo.gov/blogs/discover-nature-notes/water">Rogers and Nienhaus Band</a>
 
 ## A Musical Sunset
 
