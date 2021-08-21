@@ -19,6 +19,8 @@ menu_settings:
       url: '/about'
     - title: 'Contact Me'
       url: '/contact'
+    - title: 'Subscribe'
+      url: '/subscribe'
 
 grid_settings:
   overlay_opacity: 0.8
