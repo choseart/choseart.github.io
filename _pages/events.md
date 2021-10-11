@@ -38,6 +38,16 @@ featured_image: /images/wall/wall-landscape.jpeg
 
 <hr>
 
+#### <a href="https://www.webster-arts.org/calendar/gazebo-artist-market-winter">Gazebo Artists Market</a>
+
+📆 `Sunday, December 5 12p-4p`
+
+📍 Old Orchard Webster Groves MO
+
+<a href="https://www.webster-arts.org/" class="button button--small">Info</a>
+
+<hr>
+
 ## Past
 
 #### Gazebo Artists Market

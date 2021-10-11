@@ -20,6 +20,8 @@ Anybody who has ever painted knows that negative space is hard to achieve. It's 
 	<img src="/images/negative-space/negative-space4.jpg">
 	<img src="/images/negative-space/negative-space5.jpg">
 	<img src="/images/negative-space/negative-space6.jpg">
+	<img src="/images/negative-space/negative-space7.jpg">
+	<img src="/images/negative-space/negative-space8.jpg">
 </div>
 
 ### Shop
