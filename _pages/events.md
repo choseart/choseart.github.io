@@ -8,6 +8,18 @@ featured_image: /images/wall/wall-landscape.jpeg
 
 ## Upcoming
 
+#### OBPA Spring Boutique (Oakville Senior High School)
+
+📆 `Saturday March 5th 9am-4pm, Sunday March 6th 10am-4pm`
+
+📍 5557 Milburn Road, St. Louis, MO 63129
+
+<a href="https://www.oakvillecraftfairs.com/" class="button button--small">Info</a>
+
+<hr>
+
+## Past
+
 #### <a href="https://goo.gl/maps/8bEHqiPPwYqoy5Ce9">Parkway West High School</a>
 
 📆 `Saturday, October 30 9a-4p, Sunday, October 31 10a-3p`
@@ -47,8 +59,6 @@ featured_image: /images/wall/wall-landscape.jpeg
 <a href="https://www.webster-arts.org/" class="button button--small">Info</a>
 
 <hr>
-
-## Past
 
 #### Gazebo Artists Market
 
