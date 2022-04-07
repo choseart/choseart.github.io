@@ -22,6 +22,11 @@ Anybody who has ever painted knows that negative space is hard to achieve. It's 
 	<img src="/images/negative-space/negative-space6.jpg">
 	<img src="/images/negative-space/negative-space7.jpg">
 	<img src="/images/negative-space/negative-space8.jpg">
+	<img src="/images/negative-space/negative-space9.jpg">
+	<img src="/images/negative-space/negative-space10.jpeg">
+	<img src="/images/negative-space/negative-space11.jpeg">
+	<img src="/images/negative-space/negative-space12.jpeg">
+	<img src="/images/negative-space/negative-space13.jpeg">
 </div>
 
 ### Shop

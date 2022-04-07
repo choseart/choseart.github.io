@@ -22,6 +22,9 @@ Being from Missouri, nothing reminds me of home more than being on the water for
 	<img src="/images/sunset-on-the-water/sunset-on-the-water5.jpeg">
 	<img src="/images/sunset-on-the-water/sunset-on-the-water8.jpeg">
 	<img src="/images/sunset-on-the-water/sunset-on-the-water9.jpeg">
+	<img src="/images/sunset-on-the-water/sunset-on-the-water12.jpeg">
+	<img src="/images/sunset-on-the-water/sunset-on-the-water10.jpeg">
+	<img src="/images/sunset-on-the-water/sunset-on-the-water11.jpeg">
 </div>
 
 ### Shop
