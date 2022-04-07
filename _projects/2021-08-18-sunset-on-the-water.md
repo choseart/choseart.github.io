@@ -26,7 +26,3 @@ Being from Missouri, nothing reminds me of home more than being on the water for
 	<img src="/images/sunset-on-the-water/sunset-on-the-water10.jpeg">
 	<img src="/images/sunset-on-the-water/sunset-on-the-water11.jpeg">
 </div>
-
-### Shop
-
-You can find sunset themes in many of my pieces. Check out the <a href="../shop">shop</a> for more.

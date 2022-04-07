@@ -28,7 +28,3 @@ Anybody who has ever painted knows that negative space is hard to achieve. It's 
 	<img src="/images/negative-space/negative-space12.jpeg">
 	<img src="/images/negative-space/negative-space13.jpeg">
 </div>
-
-### Shop
-
-You can find negative space themes in many of my pieces. Check out the <a href="../shop">shop</a> for more.

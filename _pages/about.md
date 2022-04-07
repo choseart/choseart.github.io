@@ -24,9 +24,3 @@ Cindy's passion for painting can be traced back to her childhood where she spent
 <br>
 
 Acrylic pouring is a painting technique where acrylic paint is mixed with a pouring medium and then poured onto a surface. After the paint has been poured, the surface is tilted in each direction to let the paint flow. The colors interact in unpredictable and always interesting ways. Follow Cindy on social media to see even more behind the scenes of her working!
-
-## View Available Work
-
-Visit My Etsy Store to see what's new!
-
-<a href="https://www.etsy.com/shop/Choseart" class="button button--large">Etsy Store</a>
