@@ -9,4 +9,6 @@ subtitle: Seeing my artwork in the hands of a bright and genuine smile is one of
     <img src="/images/happy-customers/happy-customers-3.jpeg">
     <img src="/images/happy-customers/happy-customers-4.jpeg">
     <img src="/images/happy-customers/happy-customers-5.jpeg">
+    <img src="/images/happy-customers/happy-customers-6.jpeg">
+    <img src="/images/happy-customers/happy-customers-7.jpeg">
 </div>
